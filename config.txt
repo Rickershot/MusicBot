@@ -4,3 +4,7 @@ prefix=!
 game=shoemakk.com/bot
 stayinchannel=true
 songinstatus=true
+
+token=MzcxNDQzOTQ4MTQyNTkyMDAx.DM1vNA.3CRrYsbRJNWhRolyOvNSetO3RYQ
+owner=161323041555611648
+prefix=!
