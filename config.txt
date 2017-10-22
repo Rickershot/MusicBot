@@ -1,10 +1,3 @@
-token=MzQzNDgxNzA4ODQwMjIyNzMy.DHHXiQ.vFNUq2rHMRVdqfK1Mh4DiLUBZ4c
-owner=343481708840222732
-prefix=!
-game=shoemakk.com/bot
-stayinchannel=true
-songinstatus=true
-
 token=MzcxNDQzOTQ4MTQyNTkyMDAx.DM1vNA.3CRrYsbRJNWhRolyOvNSetO3RYQ
 owner=161323041555611648
 prefix=!
